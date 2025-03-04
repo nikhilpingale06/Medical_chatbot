@@ -1,0 +1,4 @@
+langchain_community
+flask
+langchain_groq
+-e .
