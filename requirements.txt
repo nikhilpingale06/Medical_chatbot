@@ -1,4 +1,11 @@
 langchain_community
 flask
 langchain_groq
+langchain
+pypdf
+sentence-transformers==2.2.2
+pinecone[grpc]
+langchain-pinecone
+langchain_experimental
+python-dotenv
 -e .
